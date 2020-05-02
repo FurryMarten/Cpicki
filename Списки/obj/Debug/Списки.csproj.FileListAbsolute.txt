@@ -1,0 +1,30 @@
+E:\Флэшка\Списки\Списки\bin\Debug\Списки.exe.config
+E:\Флэшка\Списки\Списки\bin\Debug\Списки.exe
+E:\Флэшка\Списки\Списки\bin\Debug\Списки.pdb
+E:\Флэшка\Списки\Списки\obj\Debug\Списки.csprojResolveAssemblyReference.cache
+E:\Флэшка\Списки\Списки\obj\Debug\Списки.Form1.resources
+E:\Флэшка\Списки\Списки\obj\Debug\Списки.Properties.Resources.resources
+E:\Флэшка\Списки\Списки\obj\Debug\Списки.csproj.GenerateResource.Cache
+E:\Флэшка\Списки\Списки\obj\Debug\Списки.exe
+E:\Флэшка\Списки\Списки\obj\Debug\Списки.pdb
+G:\2 курс\2 Семестр\САОД\4 Задание (Списки)\Списки\Списки\bin\Debug\Списки.exe.config
+G:\2 курс\2 Семестр\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.exe
+G:\2 курс\2 Семестр\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.pdb
+E:\2 курс\2 Семестр\САОД\4 Задание (Списки)\Списки\Списки\bin\Debug\Списки.exe.config
+E:\2 курс\2 Семестр\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.exe
+E:\2 курс\2 Семестр\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.pdb
+E:\2 курс\2 Семестр\САОД\4 Задание (Списки)\Списки\Списки\bin\Debug\Списки.exe
+E:\2 курс\2 Семестр\САОД\4 Задание (Списки)\Списки\Списки\bin\Debug\Списки.pdb
+E:\2 курс\2 Семестр\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.csprojResolveAssemblyReference.cache
+E:\2 курс\2 Семестр\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.Form1.resources
+E:\2 курс\2 Семестр\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.Properties.Resources.resources
+E:\2 курс\2 Семестр\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.csproj.GenerateResource.Cache
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\4 Задание (Списки)\Списки\Списки\bin\Debug\Списки.exe.config
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\4 Задание (Списки)\Списки\Списки\bin\Debug\Списки.exe
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\4 Задание (Списки)\Списки\Списки\bin\Debug\Списки.pdb
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.csprojAssemblyReference.cache
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.Form1.resources
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.Properties.Resources.resources
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.csproj.GenerateResource.cache
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.exe
+C:\Users\Nik36\Desktop\САОД\САОД\САОД\4 Задание (Списки)\Списки\Списки\obj\Debug\Списки.pdb
